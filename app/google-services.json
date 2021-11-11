@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532661950116",
+    "project_id": "loginsibal",
+    "storage_bucket": "loginsibal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532661950116:android:c3e9bf1eb43d9c7d817831",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532661950116-fnj9k6lek16313opuv51ij30grs04fih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "2d0ce98881c2ef9dc288e8ed8b4a1f6c70e48546"
+          }
+        },
+        {
+          "client_id": "532661950116-t10vghfkv2bt27o35oghtc1klkea5esg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDpnAi-0m_8sZt-04T2gKKWBN-QAr0kGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532661950116-t10vghfkv2bt27o35oghtc1klkea5esg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
